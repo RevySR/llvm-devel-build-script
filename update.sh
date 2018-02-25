@@ -38,9 +38,6 @@ svn up
 cd -
 cd libcxxabi
 svn up
-cd -
-cd test-suite
-svn up
 
 echo "update end!"
 

@@ -35,10 +35,6 @@ svn co http://llvm.org/svn/llvm-project/libcxx/trunk libcxx
 svn co http://llvm.org/svn/llvm-project/libcxxabi/trunk libcxxabi
 cd -
 
-cd llvm/projects
-svn co http://llvm.org/svn/llvm-project/test-suite/trunk test-suite
-cd -
-
 echo "init llvm finish"
 
 exit 0
